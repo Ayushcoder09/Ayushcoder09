@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile!
 
+I am Java Full Stack Developer in Cognizant having 3 years of experience.
+
 - 🌱 I’m currently learning new technologies and improving my coding skills.
 - 📫 How to reach me: You can message me here on GitHub.
 - ⚡ Fun fact: I love exploring new tools and frameworks!
